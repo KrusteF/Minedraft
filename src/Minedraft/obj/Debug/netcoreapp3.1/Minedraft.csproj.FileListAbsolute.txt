@@ -1,0 +1,13 @@
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\bin\Debug\netcoreapp3.1\Minedraft.exe
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\bin\Debug\netcoreapp3.1\Minedraft.deps.json
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\bin\Debug\netcoreapp3.1\Minedraft.runtimeconfig.json
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\bin\Debug\netcoreapp3.1\Minedraft.runtimeconfig.dev.json
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\bin\Debug\netcoreapp3.1\Minedraft.dll
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\bin\Debug\netcoreapp3.1\Minedraft.pdb
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.csprojAssemblyReference.cache
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.AssemblyInfoInputs.cache
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.AssemblyInfo.cs
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.csproj.CoreCompileInputs.cache
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.dll
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.pdb
+C:\minedraft\src\CSharp-OOP-Course\02.BasicOOP\src\L02.BasicOOP\E02.AbstractAndStatic\obj\Debug\netcoreapp3.1\Minedraft.genruntimeconfig.cache
