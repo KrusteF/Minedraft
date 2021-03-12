@@ -1,8 +1,5 @@
 ﻿namespace Minedraft.Providers
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     class SolarProvider : Provider
     {

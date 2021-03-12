@@ -1,8 +1,6 @@
 ﻿namespace Minedraft.Harvesters
 {
     using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     abstract class Harvester
     {

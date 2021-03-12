@@ -1,8 +1,6 @@
 ﻿namespace Minedraft.Providers
 {
     using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     abstract class Provider
     {
