@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/vIQY7UWB9/edDAkpU5Xv/p7fAq8X9Dy9P3Xop4yE9XpL+obRaqEgM57C77U5/Uqtpgg7SULiORk9AOJHbYPrw==",
+  "dgSpecHash": "UQ0kwHDLlBdqNZdhuuLTJA+yxJ2V/2babZK8gJjU3fhMBV6N+ZhstdCqGvMM+TBghEHIiV2weNZXllblAgPhvg==",
   "success": true,
-  "projectFilePath": "C:\\minedraft\\Minedraft\\Minedraft.csproj",
+  "projectFilePath": "C:\\Minedraft\\src\\Minedraft\\Minedraft.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

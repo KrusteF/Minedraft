@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\minedraft\\Minedraft\\Minedraft.csproj": {}
+    "C:\\Minedraft\\src\\Minedraft\\Minedraft.csproj": {}
   },
   "projects": {
-    "C:\\minedraft\\Minedraft\\Minedraft.csproj": {
+    "C:\\Minedraft\\src\\Minedraft\\Minedraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\minedraft\\Minedraft\\Minedraft.csproj",
+        "projectUniqueName": "C:\\Minedraft\\src\\Minedraft\\Minedraft.csproj",
         "projectName": "Minedraft",
-        "projectPath": "C:\\minedraft\\Minedraft\\Minedraft.csproj",
+        "projectPath": "C:\\Minedraft\\src\\Minedraft\\Minedraft.csproj",
         "packagesPath": "C:\\Users\\krisk\\.nuget\\packages\\",
-        "outputPath": "C:\\minedraft\\Minedraft\\obj\\",
+        "outputPath": "C:\\Minedraft\\src\\Minedraft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krisk\\AppData\\Roaming\\NuGet\\NuGet.Config",
